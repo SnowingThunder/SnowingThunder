@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kresimir Pavkovic=========================================================================================================================================Hacker/AI Developer-------------------
-I am a Hacker who is developing skills and new programs in order to go freelancing. I have taken courses on AI, Bug Bounty, Raspberry Pi and Ethical Hacking. Available to be hired to do any job.* 
-🌍  I'm based in Toronto or Zagreb* 
-✉️  You can contact me at [kresimirpavkovic@outlook.com](mailto:kresimirpavkovic@outlook.com)* 
-🧠  I'm learning AI Hacking Tools* 
-🤝  I'm open to collaborating on AI, Hacking, Python Projects, Geomatics Programs and Drone Projects* 
-⚡  I am an Geomatics Engineer by trade but want to become more Software based in my job!
+I am a Hacker who is developing skills and new programs in order to go freelancing. I have taken courses on AI, Bug Bounty, Raspberry Pi and Ethical Hacking. Available to be hired to do any job.
+*🌍  I'm based in Toronto or Zagreb
+*✉️  You can contact me at [kresimirpavkovic@outlook.com](mailto:kresimirpavkovic@outlook.com)* 
+*🧠  I'm learning AI Hacking Tools* 
+*🤝  I'm open to collaborating on AI, Hacking, Python Projects, Geomatics Programs and Drone Projects* 
+*⚡  I am an Geomatics Engineer by trade but want to become more Software based in my job!
 
 ### Skills
 
